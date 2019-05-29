@@ -1,0 +1,51 @@
+Variable P
+N = 5000000, R = 100, P = 1, Pi = 3.141495
+Time taken is 57.458s
+N = 5000000, R = 100, P = 2, Pi = 3.141441
+Time taken is 28.145s
+N = 5000000, R = 100, P = 4, Pi = 3.141600
+Time taken is 15.711s
+N = 5000000, R = 100, P = 8, Pi = 3.141468
+Time taken is 7.948s
+N = 5000000, R = 100, P = 16, Pi = 3.141561
+Time taken is 4.447s
+
+Variable P
+N = 50000000, R = 100, P = 1, Pi = 3.141586
+Time taken is 575.689s
+N = 50000000, R = 100, P = 2, Pi = 3.141546
+Time taken is 293.187s
+N = 50000000, R = 100, P = 4, Pi = 3.141591
+Time taken is 158.328s
+N = 50000000, R = 100, P = 8, Pi = 3.141568
+Time taken is 79.583s
+N = 50000000, R = 100, P = 16, Pi = 3.141591
+Time taken is 42.737s
+
+Variable N
+N = 10000000, R = 100, P = 16, Pi = 3.141679
+Time taken is 8.532s
+N = 20000000, R = 100, P = 16, Pi = 3.141586
+Time taken is 17.537s
+N = 40000000, R = 100, P = 16, Pi = 3.141607
+Time taken is 34.113s
+N = 80000000, R = 100, P = 16, Pi = 3.141630
+Time taken is 68.239s
+N = 160000000, R = 100, P = 16, Pi = 3.141586
+Time taken is 137.625s
+N = 320000000, R = 100, P = 16, Pi = 3.141589
+Time taken is 272.765s
+
+Variable R
+N = 50000000, R = 10, P = 16, Pi = 3.141684
+Time taken is 4.518s
+N = 50000000, R = 20, P = 16, Pi = 3.141608
+Time taken is 8.804s
+N = 50000000, R = 40, P = 16, Pi = 3.141596
+Time taken is 17.198s
+N = 50000000, R = 60, P = 16, Pi = 3.141715
+Time taken is 25.616s
+N = 50000000, R = 80, P = 16, Pi = 3.141589
+Time taken is 34.100s
+N = 50000000, R = 100, P = 16, Pi = 3.141575
+Time taken is 45.467s
