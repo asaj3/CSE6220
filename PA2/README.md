@@ -5,14 +5,10 @@ CX4220/CSE 6220 Programming Assignment 2
 
 All the code is located at the root level of the project.
 
-There are multiple header and .cpp files, your implementation will go
-into the following file:
+There are multiple header and .cpp files.
 
 - `solver.cpp`: Implement the sequential algorithm for nqueen problem, the master and worker functions for parallel nqueen according
   to the function declarations in `solver.h`
-
-
-Other files containing code that you should not change are:
 - `solver.h`: Declares the nqueen functions.
 - `utils.h` and `utils.cpp`: Implements common utility functions.
 - `main.cpp`: Implements code for the main executable `nqueen`. This does
